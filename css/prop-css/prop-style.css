@@ -1,0 +1,27 @@
+.main_article{
+    background-color: white;
+    overflow: hidden;
+    padding-bottom: 4px;
+    margin-bottom: 3rem;
+}
+
+.article-content{
+    text-align: center;
+    padding: 2rem 6.25rem 3.75rem 6.25rem;
+    box-shadow: 2px 2px 3px  rgba(0, 0, 0, 0.329);
+}
+.article-content aside p{
+    text-align: left;
+    margin: 3.75rem 0;
+}
+.offset-top{
+    padding-top: 2rem;
+    background: white;
+    margin: 0;
+}
+.question-form{
+    width: 95%
+}
+.right-col-boxes .switch:last-child {
+    display: none;
+  }

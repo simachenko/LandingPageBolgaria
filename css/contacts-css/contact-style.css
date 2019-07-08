@@ -1,0 +1,78 @@
+/* contacts */
+
+main{
+    position: relative;
+    background: white;
+}
+
+.main_contacts{
+    
+    font-size:1.3rem;
+    margin-bottom: 3rem;
+    background-color: white;
+    overflow: hidden;
+    padding-bottom: 4px;
+}
+.contacts-content{
+    
+    padding: 3rem;
+    box-shadow: 2px 2px 3px  rgba(0, 0, 0, 0.329);
+}
+/* .offset-container{
+    position: relative;
+}
+.offset-top{
+    display: block;
+    position: absolute;
+    background: white;
+    width: 1110px;
+    padding: 2rem 0;
+    top: -5rem;
+    right: 0%;
+} */
+
+
+.offset-top{
+    display: block;
+    padding: 2rem 0;
+    background: white;
+    margin: 0;
+    
+}
+
+
+.contacts-tel{
+    background: url("/pages/contacts/contacts-IMG/Phone-cell-icon.png") no-repeat left center;
+    padding-left: 50px;
+}
+.contacts-mail{
+    background: url("/pages/contacts/contacts-IMG/Email-icon.png") no-repeat left center;
+    padding-left: 50px;
+}
+.contacts-skype{
+    background: url("/pages/contacts/contacts-IMG/Skype-icon.png") no-repeat left center;
+    padding-left: 50px;
+}
+.contacts-content h4{
+    font-weight: bolder;
+}
+.contacts-content-cell{
+    margin: 4rem 0;
+    font-size: 1.15em
+}
+.right-col-form{
+    padding: 4rem 0;
+}
+.right-col-form h3{
+    font-size: 1.5em;
+}
+.right-col-form p{
+    font-size: 1em;
+}
+.right-col-form form{
+    width: 95%;
+}
+.right-col-form form input.question-submtn{
+    color: white;
+}
+/* contacts */

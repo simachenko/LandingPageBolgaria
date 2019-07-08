@@ -1,0 +1,56 @@
+@media screen and (max-width: 1199px){
+    html{
+        font-size: 13px;
+    }
+    
+ }
+ 
+ @media screen and (max-width: 992px){
+    html{
+        font-size: 12px;
+    }
+    .question-form{
+        width: 95%;
+    }
+ }
+ @media screen and (max-width: 768px){
+     .header-banner h1{
+         font-size: 4rem;
+     }
+    .left-side , .right-side , .central-side{
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    .about-content{
+        box-shadow: none;
+    }
+    .about-content aside.left-col-igor{
+        margin-bottom: 6rem;
+    }
+ }
+ @media screen and (max-width: 575px){
+     html{
+         font-size: 11px;
+     }
+   
+ }
+ @media screen and (max-width: 425px){
+     html{
+         font-size: 9px;
+     }
+     .header-banner h1{
+         font-size: 3rem;
+     }
+     .question-form input{
+         width: 20rem;
+     }
+     .header-contacts{
+         font-size: 0.6rem;
+     }
+     .header-contacts p{
+        margin-top: 0.5rem;
+    }
+  }
+  
+ 
+ 

@@ -1,0 +1,56 @@
+@media screen and (max-width: 1199px){
+   html{
+       font-size: 12px;
+   }
+}
+
+@media screen and (max-width: 992px){
+    html{
+        font-size: 10px;
+    }
+    header section.header-contacts{
+        width: 50%;
+        padding-top: 1rem;
+    }
+    .header-contacts p{
+        margin-left: 3rem;
+        margin-top: 0.4rem;
+    }
+    .footer-contacts img{
+        float: left;
+        
+    }
+    .footer-contacts p{
+        margin:0;
+        margin-left: 3rem;
+        margin-top: 0.6rem;
+    }
+}
+@media screen and (max-width: 768px){
+   footer{
+       text-align: center;
+   }
+   footer div.footer-contacts, .hide {
+       display: none;
+   }
+}
+@media screen and (max-width: 575px){
+    html{
+        font-size: 12px;
+    }
+  
+}
+@media screen and (max-width: 425px){
+    html{
+        font-size: 10px;
+    }
+    .header-banner h1{
+        font-size: 3rem;
+    }
+    .question-form input{
+        width: 20rem;
+    }
+
+ }
+ 
+

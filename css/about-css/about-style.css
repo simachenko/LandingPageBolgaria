@@ -1,0 +1,99 @@
+.main_about{
+    background-color: white;
+    overflow: hidden;
+    padding-bottom: 4px;
+    margin-bottom: 3rem;
+}
+
+.about-content{
+    text-align: center;
+    padding: 2rem 0 3.75rem 0;
+    box-shadow: 2px 2px 3px  rgba(0, 0, 0, 0.329);
+}
+.about-content aside{
+    padding: 2.2rem;
+    background-color: #f4f4f4;
+    height: 43rem;
+    /* margin: 0 2rem; */
+    box-shadow: 2px 2px 2px  rgba(0, 0, 0, 0.329);
+
+}
+.about-content aside img{
+    margin: 1.5rem;
+}
+.about-content aside p{
+    text-align: justify;
+    /* width: 95%; */
+    margin:auto;
+}
+.about-content aside h5{
+    text-transform: uppercase;
+    margin: 1rem 0;
+}
+.partners-title{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin: 3rem 0;
+}
+.ready-title{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    padding: 2rem 0;
+    background-color: #23aae2;
+    color:white;
+}
+.banner-title{
+    margin: 3rem 0;
+}
+.left-side{
+    text-align: right;
+    text-transform: uppercase;
+}
+.left-side h5{
+    color: #23aae2;
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+.left-side h6{
+    
+    font-size: 1.02rem;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+.right-side{
+    text-align: left;
+    text-transform: uppercase;
+}
+.right-side h5{
+    color: #23aae2;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.right-side h6{
+    
+    font-size: 2rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    
+
+}
+.central-side h6{
+    color: #c7c7c7;
+    font-size: 2rem;
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: 0.6rem;
+   
+}
+.central-side{
+    padding-top: 1rem;
+}
+.offset-top{
+    padding:2rem 3rem 0 3rem;
+    background: white;
+    margin: 0;
+    
+}
