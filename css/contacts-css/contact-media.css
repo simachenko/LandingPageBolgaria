@@ -48,9 +48,18 @@
         font-size: 3rem;
     }
     .question-form input{
-        width: 20rem;
+        width: 230px;
     }
-
+    .right-col-form{
+        width: 100%;
+        /* margin: 0; */
+    }
+    .contacts-content .row div{
+        padding: 0;
+    }
+    .navbar-menu{
+        top: 18rem;
+  }
  }
  
 
